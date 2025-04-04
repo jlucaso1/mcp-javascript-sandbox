@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "javascript": {
+      "command": "node",
+      "args": [
+        "server.ts"
+      ],
+      "timeout": 15,
+      "alwaysAllow": [],
+      "disabled": false
+    }
+  }
+}
